@@ -1,0 +1,11 @@
+Commands To push changes in Git repo first time
+
+1 - Touch Git
+2 - git init
+3 - git config --global "user.name"
+4 - git config --global "user.email"
+5 - git branch -m main
+6 - git remote add origin https://github.com/yash191stack/Git.git
+7 - git add Git
+8 - git commit -m "Practice"
+9 - git push -u origin main
